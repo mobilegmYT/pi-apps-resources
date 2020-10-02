@@ -1,0 +1,14 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Discord
+Exec=/usr/bin/discord-linux-armv7l/discord
+Icon=/usr/bin/discord-linux-armv7l/discord.svg
+Categories=Network;Chat;VideoConference;WebApp;Internet
+Comment=Your place to talk!
+Comment[pl]=Twoje miejsce do rozmów!
+GenericName=Network Messenger
+GenericName[pl]=Kommunikator internetowy

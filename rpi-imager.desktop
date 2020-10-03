@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Imager
+Comment=Raspberry Pi Imager
+Icon=rpi-imager
+Exec=rpi-imager --repo https://raw.githubusercontent.com/mobilegmYT/TwisterOS-imager/master/os_list_imagingutility.json
+Categories=Utility
+StartupNotify=false
+Path=
+Terminal=false

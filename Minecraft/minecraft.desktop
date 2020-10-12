@@ -3,6 +3,6 @@ Version=1.0
 Type=Application
 Name=Minecraft Launcher
 Comment=3D block based sandbox game
-Icon=/home/pi/pi-apps/apps/Minecraft/icon-64.png
+Icon=/home/pi/pi-apps/apps/Minecraft Java/icon-64.png
 Exec=java -jar /usr/share/minecraftjava/launcher.jar
 Categories=Game;
